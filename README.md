@@ -45,12 +45,12 @@ the file in some way, such as adding your name or solving a simple coding proble
 
 3. You should be able to see your Git history using the Git log in your editor.
 
-<img src="imgs/lab_7.png" style="width: 300px; margin-left: 40px;">
+<img src="imgs/lab_7.png" style="width: 250px; margin-left: 40px;">
 
 ### Step 5: Push Your Changes
 1. Push your changes to GitHub using your editor menu.
 
-<img src="imgs/lab_5.png" style="width: 300px; margin-left: 40px;">
+<img src="imgs/lab_5.png" style="width: 250px; margin-left: 40px;">
 
 2. Verify that your changes are reflected in your GitHub repository.
 
